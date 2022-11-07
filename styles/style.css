@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background: #fcefcc;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  margin: 10px;
+  color: #c27700;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
